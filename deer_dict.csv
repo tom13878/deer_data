@@ -1,0 +1,9 @@
+Field Name,Meaning
+EASTING,Ordnance Survey Grid Reference - Easting
+NORTHING,Ordnance Survey Grid Reference - Northing
+DEERSPP,"Deer Species. Where value is DeerSPPNK, this means deer specie involved in the accident was not known."
+INCOUNTY,Local Authority where accident took place
+INCROADNO,Road Name where accident occurred.
+INCYEAR,Year collision occurred
+PEOPLEINJY,Total number of people injured
+REALINCDAT,Date collision occurred.
